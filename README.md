@@ -51,4 +51,4 @@ CI/CD pipelines using Jenkins, Docker, SSH deployment, environment management, a
 Email: vanshjeet77@email.com
 
 LinkedIn:
-https://linkedin.com/in/vansh-pahwa-64238924a/
+https://linkedin.com/in/vansh-pahwa-v7/
